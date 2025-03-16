@@ -3,7 +3,7 @@ import random
 
 # Load users and courses data
 users_df = pd.read_csv("./datasets/users.csv")
-courses_df = pd.read_csv("./datasets/courses.csv")
+courses_df = pd.read_csv("./datasets/course.csv")
 
 # Generate synthetic user-course interactions
 def generate_interactions(users, courses, num_interactions=50000):
