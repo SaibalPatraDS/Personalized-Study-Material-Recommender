@@ -1,101 +1,26 @@
 course_id,title,category,description
-1,Node.js for Beginners,Web Development,A comprehensive course on Node.js in Web Development.
-2,AWS for Beginners,Cloud Computing,A comprehensive course on AWS in Cloud Computing.
-3,Advanced Reinforcement Learning Techniques,Machine Learning,A comprehensive course on Reinforcement Learning in Machine Learning.
-4,Ethical Hacking for Beginners,Cybersecurity,A comprehensive course on Ethical Hacking in Cybersecurity.
-5,NLP for Beginners,Machine Learning,A comprehensive course on NLP in Machine Learning.
-6,Advanced Big Data Techniques,Data Science,A comprehensive course on Big Data in Data Science.
-7,Advanced Cryptography Techniques,Cybersecurity,A comprehensive course on Cryptography in Cybersecurity.
-8,Advanced NLP Techniques,Machine Learning,A comprehensive course on NLP in Machine Learning.
-9,Statistics for Beginners,Data Science,A comprehensive course on Statistics in Data Science.
-10,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-11,Advanced React Techniques,Web Development,A comprehensive course on React in Web Development.
-12,Docker for Beginners,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-13,Docker for Beginners,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-14,Advanced Computer Vision Techniques,Machine Learning,A comprehensive course on Computer Vision in Machine Learning.
-15,Advanced NLP Techniques,Machine Learning,A comprehensive course on NLP in Machine Learning.
-16,Advanced NLP Techniques,Machine Learning,A comprehensive course on NLP in Machine Learning.
-17,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-18,Advanced Ethical Hacking Techniques,Cybersecurity,A comprehensive course on Ethical Hacking in Cybersecurity.
-19,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-20,Advanced Tableau Techniques,Data Science,A comprehensive course on Tableau in Data Science.
-21,Malware Analysis for Beginners,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-22,Advanced HTML & CSS Techniques,Web Development,A comprehensive course on HTML & CSS in Web Development.
-23,Advanced HTML & CSS Techniques,Web Development,A comprehensive course on HTML & CSS in Web Development.
-24,SQL for Beginners,Data Science,A comprehensive course on SQL in Data Science.
-25,Advanced AWS Techniques,Cloud Computing,A comprehensive course on AWS in Cloud Computing.
-26,Advanced React Techniques,Web Development,A comprehensive course on React in Web Development.
-27,Advanced JavaScript Techniques,Web Development,A comprehensive course on JavaScript in Web Development.
-28,Advanced Azure Techniques,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-29,Advanced Deep Learning Techniques,Machine Learning,A comprehensive course on Deep Learning in Machine Learning.
-30,Advanced Kubernetes Techniques,Cloud Computing,A comprehensive course on Kubernetes in Cloud Computing.
-31,Advanced Azure Techniques,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-32,Advanced Reinforcement Learning Techniques,Machine Learning,A comprehensive course on Reinforcement Learning in Machine Learning.
-33,Advanced Tableau Techniques,Data Science,A comprehensive course on Tableau in Data Science.
-34,Ethical Hacking for Beginners,Cybersecurity,A comprehensive course on Ethical Hacking in Cybersecurity.
-35,Risk Management for Beginners,Cybersecurity,A comprehensive course on Risk Management in Cybersecurity.
-36,Advanced Statistics Techniques,Data Science,A comprehensive course on Statistics in Data Science.
-37,Advanced AWS Techniques,Cloud Computing,A comprehensive course on AWS in Cloud Computing.
-38,Azure for Beginners,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-39,Advanced Malware Analysis Techniques,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-40,Network Security for Beginners,Cybersecurity,A comprehensive course on Network Security in Cybersecurity.
-41,Advanced Tableau Techniques,Data Science,A comprehensive course on Tableau in Data Science.
-42,Advanced Reinforcement Learning Techniques,Machine Learning,A comprehensive course on Reinforcement Learning in Machine Learning.
-43,Advanced Cryptography Techniques,Cybersecurity,A comprehensive course on Cryptography in Cybersecurity.
-44,Advanced Google Cloud Techniques,Cloud Computing,A comprehensive course on Google Cloud in Cloud Computing.
-45,Advanced JavaScript Techniques,Web Development,A comprehensive course on JavaScript in Web Development.
-46,Advanced Statistics Techniques,Data Science,A comprehensive course on Statistics in Data Science.
-47,Malware Analysis for Beginners,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-48,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-49,Advanced React Techniques,Web Development,A comprehensive course on React in Web Development.
-50,Advanced Neural Networks Techniques,Machine Learning,A comprehensive course on Neural Networks in Machine Learning.
-51,Advanced Big Data Techniques,Data Science,A comprehensive course on Big Data in Data Science.
-52,Advanced Kubernetes Techniques,Cloud Computing,A comprehensive course on Kubernetes in Cloud Computing.
-53,Advanced Big Data Techniques,Data Science,A comprehensive course on Big Data in Data Science.
-54,Tableau for Beginners,Data Science,A comprehensive course on Tableau in Data Science.
-55,Azure for Beginners,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-56,NLP for Beginners,Machine Learning,A comprehensive course on NLP in Machine Learning.
-57,Advanced Network Security Techniques,Cybersecurity,A comprehensive course on Network Security in Cybersecurity.
-58,Advanced Risk Management Techniques,Cybersecurity,A comprehensive course on Risk Management in Cybersecurity.
-59,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-60,Python for Beginners,Data Science,A comprehensive course on Python in Data Science.
-61,Django for Beginners,Web Development,A comprehensive course on Django in Web Development.
-62,Neural Networks for Beginners,Machine Learning,A comprehensive course on Neural Networks in Machine Learning.
-63,Advanced JavaScript Techniques,Web Development,A comprehensive course on JavaScript in Web Development.
-64,Advanced JavaScript Techniques,Web Development,A comprehensive course on JavaScript in Web Development.
-65,Advanced Cryptography Techniques,Cybersecurity,A comprehensive course on Cryptography in Cybersecurity.
-66,Node.js for Beginners,Web Development,A comprehensive course on Node.js in Web Development.
-67,Advanced Node.js Techniques,Web Development,A comprehensive course on Node.js in Web Development.
-68,Advanced Malware Analysis Techniques,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-69,Advanced Node.js Techniques,Web Development,A comprehensive course on Node.js in Web Development.
-70,Advanced Network Security Techniques,Cybersecurity,A comprehensive course on Network Security in Cybersecurity.
-71,Advanced Malware Analysis Techniques,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-72,Advanced HTML & CSS Techniques,Web Development,A comprehensive course on HTML & CSS in Web Development.
-73,Advanced NLP Techniques,Machine Learning,A comprehensive course on NLP in Machine Learning.
-74,Reinforcement Learning for Beginners,Machine Learning,A comprehensive course on Reinforcement Learning in Machine Learning.
-75,Advanced Network Security Techniques,Cybersecurity,A comprehensive course on Network Security in Cybersecurity.
-76,Node.js for Beginners,Web Development,A comprehensive course on Node.js in Web Development.
-77,Advanced Big Data Techniques,Data Science,A comprehensive course on Big Data in Data Science.
-78,Advanced Reinforcement Learning Techniques,Machine Learning,A comprehensive course on Reinforcement Learning in Machine Learning.
-79,Azure for Beginners,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-80,Advanced JavaScript Techniques,Web Development,A comprehensive course on JavaScript in Web Development.
-81,Network Security for Beginners,Cybersecurity,A comprehensive course on Network Security in Cybersecurity.
-82,Advanced Docker Techniques,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-83,Advanced HTML & CSS Techniques,Web Development,A comprehensive course on HTML & CSS in Web Development.
-84,Advanced Ethical Hacking Techniques,Cybersecurity,A comprehensive course on Ethical Hacking in Cybersecurity.
-85,Advanced HTML & CSS Techniques,Web Development,A comprehensive course on HTML & CSS in Web Development.
-86,NLP for Beginners,Machine Learning,A comprehensive course on NLP in Machine Learning.
-87,Advanced Azure Techniques,Cloud Computing,A comprehensive course on Azure in Cloud Computing.
-88,SQL for Beginners,Data Science,A comprehensive course on SQL in Data Science.
-89,Advanced Docker Techniques,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-90,JavaScript for Beginners,Web Development,A comprehensive course on JavaScript in Web Development.
-91,Advanced Kubernetes Techniques,Cloud Computing,A comprehensive course on Kubernetes in Cloud Computing.
-92,Docker for Beginners,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-93,Docker for Beginners,Cloud Computing,A comprehensive course on Docker in Cloud Computing.
-94,Malware Analysis for Beginners,Cybersecurity,A comprehensive course on Malware Analysis in Cybersecurity.
-95,Computer Vision for Beginners,Machine Learning,A comprehensive course on Computer Vision in Machine Learning.
-96,Advanced Node.js Techniques,Web Development,A comprehensive course on Node.js in Web Development.
-97,Advanced AWS Techniques,Cloud Computing,A comprehensive course on AWS in Cloud Computing.
-98,Advanced Neural Networks Techniques,Machine Learning,A comprehensive course on Neural Networks in Machine Learning.
-99,AWS for Beginners,Cloud Computing,A comprehensive course on AWS in Cloud Computing.
-100,Advanced Risk Management Techniques,Cybersecurity,A comprehensive course on Risk Management in Cybersecurity.
+1,Ethical Hacking for Beginners,Cybersecurity,Hope dog maybe maybe difference play. By past sell meet lot. And yard option manage. In teacher true stand mind hand kid.
+2,Kubernetes for Beginners,Cloud Computing,"Should nation big indicate most understand. Standard notice himself in shake watch provide.
+Well town my many couple sister enjoy. Take contain class research."
+3,Advanced Network Security Techniques,Cybersecurity,Of firm yard start admit network support. Technology happy ten. Accept themselves its.
+4,Advanced Python Techniques,Data Science,"Most conference serve too always.
+Executive local across officer hospital agreement. Around recently father ability."
+5,SQL for Beginners,Data Science,Who respond develop message less police rich shake. Movement ball customer again treatment.
+6,Cryptography for Beginners,Cybersecurity,"Nature buy defense against bar ok. Small hit consider back. Challenge some theory mention fast nature.
+Theory forward policy law cup. Line conference key red condition yeah. Design indeed investment."
+7,Advanced Statistics Techniques,Data Science,"Alone nation how body Republican. Difficult left message way share ten.
+Better your parent yourself. Prevent simple hear month cultural share. Organization administration whose main try."
+8,Advanced Ethical Hacking Techniques,Cybersecurity,Important loss energy for big late. Scientist available until million set imagine push. Paper dark thing word easy possible physical administration.
+9,Advanced AWS Techniques,Cloud Computing,"Fight receive company commercial seem chance. Already pass election will table.
+Accept PM none couple audience money pick. Work decision first return."
+10,Advanced Reinforcement Learning Techniques,Machine Learning,Government read term interview nothing. Go push now project involve behind area. Public seem sound.
+11,Advanced Neural Networks Techniques,Machine Learning,"Fear manager discussion page young. Any guess type meet. Live past painting claim despite view site.
+Sell rest add difficult. Their describe space."
+12,Advanced JavaScript Techniques,Web Development,"House available gun listen place smile. Job spring tax there dog message themselves.
+Add arrive detail power price. Only program arm."
+13,Advanced Django Techniques,Web Development,Have together college develop bag difference treatment. Different him role leg. Doctor this husband then.
+14,Advanced Ethical Hacking Techniques,Cybersecurity,"Present fund owner recently also many. Young born consider others edge.
+Medical bad site respond born. Writer rock collection lead skin oil. Read western hard party whole."
+15,Advanced Big Data Techniques,Data Science,"Rock always head use adult. City physical sister pressure test find.
+Woman simply job admit both get.
+Live writer college beautiful drive. Available specific world while real such position guy."
