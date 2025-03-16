@@ -22,7 +22,7 @@ def generate_interactions(users, courses, num_interactions=50000):
 
         rating = round(random.uniform(1, 5), 1)  # Rating between 1 and 5
         watch_time = round(random.uniform(0, 100), 2)  # Percentage of course completed
-        clicked = random.choice([0, 1])  # Whether the user clicked (1 = Yes, 0 = No)
+        clicked = 1 if rating > 2.5 else random.choice([0, 1])  # Whether the user clicked (1 = Yes, 0 = No)
 
         interactions.append({
             "user_id": user_id,
